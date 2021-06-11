@@ -529,9 +529,6 @@
 [submodule "aws-elemental-mediaconnect-user-guide"]
 	path = aws-elemental-mediaconnect-user-guide
 	url = https://github.com/awsdocs/aws-elemental-mediaconnect-user-guide.git
-[submodule ".github"]
-	path = .github
-	url = https://github.com/awsdocs/.github.git
 [submodule "aws-global-accelerator-dev-guide"]
 	path = aws-global-accelerator-dev-guide
 	url = https://github.com/awsdocs/aws-global-accelerator-dev-guide.git
